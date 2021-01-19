@@ -15,5 +15,12 @@ Website: joethecannonball.fakewebsite.com
 Twitter: @JoeBobTheCannonFakeUser  
 Facebook: @JoeBobTheCannonFakeUser
 
+Name: Austin
+Bio: I am currently a Sophomore at a University in Texas
+Place: Houston Babyyyy
+Website: None
+Twitter: None
+Facebook: None
+
 ## First timers
 Go ahead and add your info to the file with the name of the current year(found in the past lists folder)
